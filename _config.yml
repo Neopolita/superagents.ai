@@ -1,13 +1,21 @@
 title: Superagents.ai
 description: |
+  <br/>
   <a href="mailto:neopolita@gmail.com">
     <i class="fa-solid fa-envelope"></i>
   </a>
+  <br/>
+  <a href="https://www.linkedin.com/in/ignacio-garmendia-a2076a3">
+    <i class="fa-brands fa-linkedin"></i>
+  </a>
+  <br/>
   <a href="https://github.com/neopolita">
     <i class="fa-brands fa-github"></i>
   </a>
   <br/>
-  Cositas
+  <a href="https://twitter.com/codepolita">
+    <i class="fa-brands fa-twitter"></i>
+  </a>
 baseurl: ""
 
 defaults: # <https://jekyllrb.com/docs/configuration/front-matter-defaults/>
