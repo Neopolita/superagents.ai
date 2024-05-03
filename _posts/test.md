@@ -1,14 +1,16 @@
-# cv
+---
+redirect_from: /
+title: test
+tags: test
+---
 
-- [cv](https://github.com/Neopolita/cv)
-
-<!-- .slide -->
-
-## other
-
-- [test 0](https://github.com/Neopolita/cv)
-
-<!-- .slide vertical=true -->
-
-- [test 1](https://github.com/Neopolita/cv)
-![Dustland](http://img.youtube.com/vi/up7XVYRfiW0/0.jpg)
+```mermaid
+sequenceDiagram
+从者->>宝具:构造一个新的宝具对象
+宝具-->>从者:产生属性增益
+从者->>宝具:加入装备栏
+从者->>宝具:使用主动技能，触发被动技能
+从者->>宝具:脱下宝具
+宝具-->>从者:去除属性增益
+从者->>宝具:delete对应指针
+```
