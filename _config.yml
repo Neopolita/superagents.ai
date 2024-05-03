@@ -35,7 +35,7 @@ defaults: # <https://jekyllrb.com/docs/configuration/front-matter-defaults/>
             disable: false
             avatar:
               enable: true
-              img: https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320
+              img: https://github.com/Neopolita/superagents.ai/blob/main/gato.png?raw=true
             nav:
               - title: '<i class="fa-solid fa-home fa-fw"></i> Home'
                 href: /
@@ -153,12 +153,12 @@ defaults: # <https://jekyllrb.com/docs/configuration/front-matter-defaults/>
             - |
               <link
                 rel="apple-touch-icon-precomposed"
-                href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320"
+                href="https://github.com/Neopolita/superagents.ai/blob/main/gato.png?raw=true"
               />
               <link
                 rel="shortcut
                 icon"
-                href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=32"
+                href="https://github.com/Neopolita/superagents.ai/blob/main/gato.png?raw=true"
               />
             - |
               <link
