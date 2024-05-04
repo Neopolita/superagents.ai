@@ -51,6 +51,8 @@ defaults: # <https://jekyllrb.com/docs/configuration/front-matter-defaults/>
             nav:
               - title: '<i class="fa-solid fa-home fa-fw"></i> Home'
                 href: /
+              - title: '<i class="fa-solid fa-archive fa-fw"></i> Archive'
+                href: /archive/
             jekyll-toc: # https://github.com/allejo/jekyll-toc
               enable: true
               prepend: |
