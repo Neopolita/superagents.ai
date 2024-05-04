@@ -18,6 +18,7 @@ title: superagents.ai
 
 ## My career in a nuthsell
 
+```cpp
 - 1980: Hello World!
 - 1987: First computer, Amstrad CPC 464, first games in BASIC
 - 1992: Second computer, 386, started learning c++
@@ -29,6 +30,7 @@ title: superagents.ai
 - 2014: Still at London, founded Gumbug Games as CTO, released 3 great games
 - 2019: Sold Gumbug Games to Voodoo Games, joined Voodoo and worked on some of their biggest hits
 - 2021: Joined Fortis Games during the seed stage as Technical Director of their first team
+```
 
 ## Low-level details >
 
