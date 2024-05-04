@@ -16,7 +16,7 @@ title: superagents.ai
 
 <!-- .slide -->
 
-### My career in a nuthsell
+### In a nuthsell
 
 ###### 1987: First computer, Amstrad CPC 464, first games in BASIC
 ###### 2001: Founded Otrostudio, developed Webs and RIAs for lots of clients
