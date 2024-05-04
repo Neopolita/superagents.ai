@@ -42,7 +42,7 @@ defaults: # <https://jekyllrb.com/docs/configuration/front-matter-defaults/>
             disable: false
             avatar:
               enable: true
-              img: https://github.com/Neopolita/superagents.ai/blob/main/images/profile.jpg?raw=true
+              img: https://github.com/Neopolita/superagents.ai/blob/main/images/profile.jpeg?raw=true
             nav:
               - title: '<i class="fa-solid fa-home fa-fw"></i> Home'
                 href: /
@@ -160,12 +160,12 @@ defaults: # <https://jekyllrb.com/docs/configuration/front-matter-defaults/>
             - |
               <link
                 rel="apple-touch-icon-precomposed"
-                href="https://github.com/Neopolita/superagents.ai/blob/main/images/profile.jpg?raw=true"
+                href="https://github.com/Neopolita/superagents.ai/blob/main/images/profile.jpeg?raw=true"
               />
               <link
                 rel="shortcut
                 icon"
-                href="https://github.com/Neopolita/superagents.ai/blob/main/images/profile.jpg?raw=true"
+                href="https://github.com/Neopolita/superagents.ai/blob/main/images/profile.jpeg?raw=true"
               />
             - |
               <link
