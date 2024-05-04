@@ -22,9 +22,9 @@ title: superagents.ai
 ##### 2001: **Founded Otrostudio**, developed **Webs and RIAs** for lots of clients
 ##### 2006: **Founded e-LiteGames** and created a portal with **+10 real-time multiplayer games**
 ##### 2008: **Joined Pyro Studios** as **Engineer**, biggest studio in Spain! First job in the games industry
-##### 2009: **Joined Freedom Factory Studios** as **Engineer**, developed games for **web, pc and consoles**
+##### 2009: **Joined Freedom Factory Studios** as **Engineer**, developed games for **Web, PC and consoles**
 ##### 2011: Moved to London! **Joined Mind Candy** and worked as **Senior Engineer** in the **Moshi Monsters** phenomenon
-##### 2014: Still at London, **founded Gumbug Games as CTO**, released **3 great games**
+##### 2014: Still at London, **founded Gumbug Games as CTO**, released **3 Great Games**
 ##### 2019: **Sold Gumbug to Voodoo Games**, joined Voodoo and worked as **Tech Lead** on some of their biggest hits
 ##### 2021: **Joined Fortis Games** during the seed stage as **Technical Director** of their first team
 
