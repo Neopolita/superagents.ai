@@ -16,12 +16,9 @@ title: superagents.ai
 
 <!-- .slide -->
 
-## My career in a nuthsell
+### My career in a nuthsell
 
-```cpp
-- 1980: Hello World!
 - 1987: First computer, Amstrad CPC 464, first games in BASIC
-- 1992: Second computer, 386, started learning c++
 - 2001: Founded Otrostudio, developed Webs and RIAs for lots of clients
 - 2006: Founded e-LiteGames and focused on the development of real-time multiplayer games
 - 2008: Joined Pyro Studios, biggest studio in Spain! First job in the games industry
@@ -30,9 +27,8 @@ title: superagents.ai
 - 2014: Still at London, founded Gumbug Games as CTO, released 3 great games
 - 2019: Sold Gumbug Games to Voodoo Games, joined Voodoo and worked on some of their biggest hits
 - 2021: Joined Fortis Games during the seed stage as Technical Director of their first team
-```
 
-## Low-level details >
+### Low-level details >
 
 <!-- .slide vertical=true -->
 
