@@ -10,6 +10,7 @@ title: superagents.ai
 - [🧑🏻‍🎓 Certifications](https://www.linkedin.com/in/ignacio-garmendia-a2076a3/details/certifications/)
 - [🔥 LearnMojo Substack](https://learnmojo.substack.com/)
 
+
 ## Curriculum Vitae >
 
 <!-- .slide -->
