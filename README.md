@@ -1,14 +1,7 @@
-# cv
+---
+title: superagents.ai
+---
 
-- [cv](https://github.com/Neopolita/cv)
+## [Machine Learning](https://www.superagents.ai/2024/05/04/machine_learning/)
 
-<!-- .slide -->
-
-## other
-
-- [test 0](ttps://github.com/Neopolita/cv)
-
-<!-- .slide vertical=true -->
-
-- [test 1](ttps://github.com/Neopolita/cv)
-![Dustland](http://img.youtube.com/vi/up7XVYRfiW0/0.jpg)
+## [Machine Learning](https://www.superagents.ai/2024/05/04/game_development/)
