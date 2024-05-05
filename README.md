@@ -55,6 +55,7 @@ title: superagents.ai
 ### 2009: Freedom Factory Studios - Engineer
 
 | [![Virtua Football](http://img.youtube.com/vi/vq_mzEoVlh8/0.jpg)](http://www.youtube.com/watch?v=vq_mzEoVlh8) | [![Naraba World](http://img.youtube.com/vi/bF5DJOQkFPE/0.jpg)](http://www.youtube.com/watch?v=bF5DJOQkFPE) | [![Baobab Planet](http://img.youtube.com/vi/wIX0pHa6BKQ/0.jpg)](http://www.youtube.com/watch?v=wIX0pHa6BKQ) | [![Cycling Evolution](http://img.youtube.com/vi/IsHRIYzHxFo/0.jpg)](http://www.youtube.com/watch?v=IsHRIYzHxFo) |
+
 #####
 ##### While working at Pyro Studios I got an offer from **Freedom Factory Studios and joined as an engineer**. During the next years I worked on: **Virtual Football, a MMO soccer manager; Naraba World, a 3D kids game for PC and NDS; Baobab Planet, a 3D MMORPG for PC; And Cycling Evolution, a cycling manager for PC**.
 
