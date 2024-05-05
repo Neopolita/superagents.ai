@@ -12,7 +12,7 @@ title: superagents.ai
 
 <br>
 
-## Curriculum Vitae >
+## Curriculum Vitae (scroll or right key)
 
 <!-- .slide -->
 
@@ -25,7 +25,7 @@ title: superagents.ai
 ##### 2008: **Joined Pyro Studios** as an **Engineer**, biggest studio in Spain! First job in the games industry
 ##### 2009: **Joined Freedom Factory Studios** as an **Engineer**, developed games for **Web, PC and consoles**
 
-#### Round 2 >
+#### Round 2 (scroll or right key)
 
 <!-- .slide -->
 
@@ -37,7 +37,7 @@ title: superagents.ai
 ##### 2019: **Sold Gumbug to Voodoo Games**, joined Voodoo and worked as a **Tech Lead** on some of their biggest hits
 ##### 2021: **Joined Fortis Games** during the seed stage as **Technical Director** of their first team
 
-#### Low-level details >
+#### Low-level details (scroll or right key)
 
 <!-- .slide -->
 
