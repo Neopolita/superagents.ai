@@ -48,13 +48,15 @@ title: superagents.ai
 
 ### 2008: Pyro Studios - Engineer
 
-##### Pyro Studios, developers of the Commando saga, was at the time the biggest studio in Spain, so when I got an offer to join them, I didn't hesitate, packed my bag and moved to Madrid on a January 1st. At Pyro Studios **I worked as an engineer on an ambitious real-time multiplayer game**, unfortunately the project was not released but **it was a great chance to test my server solution, Beam Server, on the context of a big studio**.
+##### Pyro Studios, developers of the Commando saga, was at the time the biggest studio in Spain, so when I got an offer to join them, I didn't hesitate, packed my bag and moved to Madrid on a January 1st. At Pyro Studios **I worked as an engineer on Quiz Adventure, an ambitious real-time multiplayer game**, unfortunately the project was not released but **it was a great chance to test my server solution, Beam Server, on the context of a big studio**.
 
 <!-- .slide vertical=true -->
 
 ### 2009: Freedom Factory Studios - Engineer
 
-| [![Virtua Football](http://img.youtube.com/vi/vq_mzEoVlh8/0.jpg)](http://www.youtube.com/watch?v=vq_mzEoVlh8){:target="_blank"} | [![Naraba World](http://img.youtube.com/vi/bF5DJOQkFPE/0.jpg)](http://www.youtube.com/watch?v=bF5DJOQkFPE){:target="_blank"} | [![Baobab Planet](http://img.youtube.com/vi/wIX0pHa6BKQ/0.jpg)](http://www.youtube.com/watch?v=wIX0pHa6BKQ){:target="_blank"} | [![Cycling Evolution](http://img.youtube.com/vi/IsHRIYzHxFo/0.jpg)](http://www.youtube.com/watch?v=IsHRIYzHxFo){:target="_blank"} |
+| Virtua Football | Naraba World | Baobab Planet | Cycling Evolution |
+| :---: | :---: | :---: | :---: |
+| [![Virtua Football](http://img.youtube.com/vi/vq_mzEoVlh8/0.jpg)](http://www.youtube.com/watch?v=vq_mzEoVlh8) | [![Naraba World](http://img.youtube.com/vi/bF5DJOQkFPE/0.jpg)](http://www.youtube.com/watch?v=bF5DJOQkFPE){:target="_blank"} | [![Baobab Planet](http://img.youtube.com/vi/wIX0pHa6BKQ/0.jpg)](http://www.youtube.com/watch?v=wIX0pHa6BKQ) | [![Cycling Evolution](http://img.youtube.com/vi/IsHRIYzHxFo/0.jpg)](http://www.youtube.com/watch?v=IsHRIYzHxFo) |
 | `F/E`,`B/E`,`DB`<br/>`Ops`,`AI`,`Tools` | `F/E` | `F/E` | `F/E` |
 <br>
 ##### While working at Pyro Studios I got an offer from **Freedom Factory Studios and joined as an engineer**. During the next years I worked on: **Virtual Football, a MMO soccer manager; Naraba World, a 3D kids game for PC and NDS; Baobab Planet, a 3D MMORPG for PC; And Cycling Evolution, a cycling manager for PC**.
