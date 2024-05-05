@@ -408,9 +408,9 @@ defaults: # <https://jekyllrb.com/docs/configuration/front-matter-defaults/>
                 />
                 <script>
                 function initSakanaWidget() {
-                  const jetpacktocat = SakanaWidget.getCharacter('jetpacktocat');
-                  jetpacktocat.image = `https://github.com/Neopolita/superagents.ai/blob/main/images/jetpacktocat.png?raw=true`;
-                  SakanaWidget.registerCharacter('jetpacktocat', jetpacktocat);
+                  const mizuno = SakanaWidget.getCharacter('takina');
+                  mizuno.image = `https://github.com/Neopolita/superagents.ai/blob/main/images/jetpacktocat.png?raw=true`;
+                  SakanaWidget.registerCharacter('mizuno', mizuno);
                   let sakana = document.createElement("div");
                   sakana.style.bottom = "0";
                   sakana.style.right = "0";
