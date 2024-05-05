@@ -15,7 +15,7 @@ title: superagents.ai
 ## Curriculum Vitae >
 
 <!-- .slide -->
-
+![Games](https://github.com/Neopolita/superagents.ai/blob/main/images/games.png?raw=true)
 ### In a nuthsell
 
 ##### 1987: First computer, Amstrad CPC 464, first games in BASIC
