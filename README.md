@@ -15,6 +15,7 @@ title: superagents.ai
 ## Curriculum Vitae >
 
 <!-- .slide -->
+
 ![Games](https://github.com/Neopolita/superagents.ai/blob/main/images/games.png?raw=true)
 ### In a nuthsell
 
@@ -38,7 +39,6 @@ title: superagents.ai
 
 #### 2019: Voodoo Games - Tech Lead
 
-| :------: | :------: | :------: | :------: | :------: |
 | [![Helix Jump](http://img.youtube.com/vi/jhhqLsF074k/0.jpg)](http://www.youtube.com/watch?v=jhhqLsF074k){:target="_blank"} | [![Aquapark.io](http://img.youtube.com/vi/GBeLmwW__BY/0.jpg)](http://www.youtube.com/watch?v=GBeLmwW__BY){:target="_blank"} | [![Crowd City](http://img.youtube.com/vi/FL7UQiGJvdQ/0.jpg)](http://www.youtube.com/watch?v=FL7UQiGJvdQ){:target="_blank"} | [![Hole.io](http://img.youtube.com/vi/lJDYb73h_qk/0.jpg)](http://www.youtube.com/watch?v=lJDYb73h_qk){:target="_blank"} | [![Crowd World](http://img.youtube.com/vi/xGBrSkeZxuw/0.jpg)](http://www.youtube.com/watch?v=xGBrSkeZxuw){:target="_blank"} |
 
 ###### ^^ (Click to watch video)
@@ -48,7 +48,6 @@ title: superagents.ai
 
 #### 2014: Gumbug Games - Founder/CTO
 
-| :------: | :------: | :------: |
 | [![Dustland](http://img.youtube.com/vi/up7XVYRfiW0/0.jpg)](http://www.youtube.com/watch?v=up7XVYRfiW0){:target="_blank"} | [![Smash Supreme](http://img.youtube.com/vi/wmNJFQ48f0U/0.jpg)](http://www.youtube.com/watch?v=wmNJFQ48f0U){:target="_blank"} | [![Notorious 99](http://img.youtube.com/vi/ojWSzx2M5BM/0.jpg)](http://www.youtube.com/watch?v=ojWSzx2M5BM){:target="_blank"} |
 
 ###### ^^ (Click to watch video)
@@ -58,7 +57,6 @@ title: superagents.ai
 
 #### 2011: Mind Candy - Senior Engineer
 
-| :------: | :------: | :------: |
 | [![Moshi Monsters](http://img.youtube.com/vi/RADumi98ZgA/0.jpg)](http://www.youtube.com/watch?v=RADumi98ZgA){:target="_blank"} | [![Moshling Rescue](http://img.youtube.com/vi/7r-Q0L8x-k0/0.jpg)](http://www.youtube.com/watch?v=7r-Q0L8x-k0){:target="_blank"} | [![World of Warriors](http://img.youtube.com/vi/tIPu-e6qSw4/0.jpg)](http://www.youtube.com/watch?v=tIPu-e6qSw4){:target="_blank"} |
 
 ###### ^^ (Click to watch video)
@@ -68,7 +66,6 @@ title: superagents.ai
 
 #### 2009: Freedom Factory - Engineer
 
-| :------: | :------: | :------: | :------: |
 | [![Virtua Football](http://img.youtube.com/vi/vq_mzEoVlh8/0.jpg)](http://www.youtube.com/watch?v=vq_mzEoVlh8){:target="_blank"} | [![Naraba World](http://img.youtube.com/vi/bF5DJOQkFPE/0.jpg)](http://www.youtube.com/watch?v=bF5DJOQkFPE){:target="_blank"} | [![Baobab Planet](http://img.youtube.com/vi/wIX0pHa6BKQ/0.jpg)](http://www.youtube.com/watch?v=wIX0pHa6BKQ){:target="_blank"} | [![Cycling Evolution](http://img.youtube.com/vi/IsHRIYzHxFo/0.jpg)](http://www.youtube.com/watch?v=IsHRIYzHxFo){:target="_blank"} |
 
 ###### ^^ (Click to watch video)
