@@ -34,7 +34,7 @@ My current position, I **Joined Fortis Games** during the seed stage as **Techni
 
 | Helix Jump | | Aquapark.io | | Crowd City | | Hole.io | | Crowd World |
 | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
-| [![Helix Jump](http://img.youtube.com/vi/jhhqLsF074k/0.jpg)](http://www.youtube.com/watch?v=jhhqLsF074k){:target="_blank"} | [![Aquapark.io](http://img.youtube.com/vi/GBeLmwW__BY/0.jpg)](http://www.youtube.com/watch?v=GBeLmwW__BY){:target="_blank"} | [![Crowd City](http://img.youtube.com/vi/FL7UQiGJvdQ/0.jpg)](http://www.youtube.com/watch?v=FL7UQiGJvdQ){:target="_blank"} | [![Hole.io](http://img.youtube.com/vi/lJDYb73h_qk/0.jpg)](http://www.youtube.com/watch?v=lJDYb73h_qk){:target="_blank"} | [![Crowd World](http://img.youtube.com/vi/xGBrSkeZxuw/0.jpg)](http://www.youtube.com/watch?v=xGBrSkeZxuw){:target="_blank"} |
+| [![Helix Jump](http://img.youtube.com/vi/jhhqLsF074k/0.jpg)](http://www.youtube.com/watch?v=jhhqLsF074k){:target="_blank"} | | [![Aquapark.io](http://img.youtube.com/vi/GBeLmwW__BY/0.jpg)](http://www.youtube.com/watch?v=GBeLmwW__BY){:target="_blank"} | | [![Crowd City](http://img.youtube.com/vi/FL7UQiGJvdQ/0.jpg)](http://www.youtube.com/watch?v=FL7UQiGJvdQ){:target="_blank"} | | [![Hole.io](http://img.youtube.com/vi/lJDYb73h_qk/0.jpg)](http://www.youtube.com/watch?v=lJDYb73h_qk){:target="_blank"} | | [![Crowd World](http://img.youtube.com/vi/xGBrSkeZxuw/0.jpg)](http://www.youtube.com/watch?v=xGBrSkeZxuw){:target="_blank"} |
 
 ^^ (Click to watch)
 
