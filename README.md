@@ -34,7 +34,7 @@ title: superagents.ai
 
 #### 2021: Fortis Games - Technical Director
 
-> My current position, I **Joined Fortis Games** during the seed stage as **Technical Director** of their first team, where I'm working on an undisclosed project.
+##### My current position, I **Joined Fortis Games** during the seed stage as **Technical Director** of their first team, where I'm working on an undisclosed project.
 
 #### 2019: Voodoo Games - Tech Lead
 
@@ -77,6 +77,8 @@ title: superagents.ai
 ##### Pyro Studios, developers of the Commando saga, was at the time the biggest studio in Spain, so when I got an offer to join them, I didn't hesitate, packed my bag and moved to Madrid on a January 1st. At Pyro Studios **I worked as an Engineer on Quiz Adventure, an ambitious real-time multiplayer game**, unfortunately the project was not released but **it was a great chance to test my server solution, Beam Server, on the context of a big studio**.
 
 <!-- .slide vertical=true -->
+
+![e-LiteGames](https://github.com/Neopolita/superagents.ai/blob/main/images/elitegames.png?raw=true)
 
 #### 2006: e-LiteGames - Indie game developer
 
