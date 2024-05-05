@@ -42,7 +42,7 @@ My current position, I **Joined Fortis Games** during the seed stage as **Techni
 
 ### 2019-2021: Voodoo Games - Tech Lead
 
-| [![Crowd World](http://img.youtube.com/vi/xGBrSkeZxuw/0.jpg)](http://www.youtube.com/watch?v=xGBrSkeZxuw){:target="_blank"} |
+| | [![Crowd World](http://img.youtube.com/vi/xGBrSkeZxuw/0.jpg)](http://www.youtube.com/watch?v=xGBrSkeZxuw){:target="_blank"} | |
 
 ^^ (Click to watch)
 
@@ -50,7 +50,7 @@ In 2019 **Gumbug was acquired by Voodoo Games** and most of the original team jo
 
 ### 2014-2019: Gumbug Games - Founder/CTO
 
-| [![Smash Supreme](http://img.youtube.com/vi/wmNJFQ48f0U/0.jpg)](http://www.youtube.com/watch?v=wmNJFQ48f0U){:target="_blank"} | | [![Notorious 99](http://img.youtube.com/vi/ojWSzx2M5BM/0.jpg)](http://www.youtube.com/watch?v=ojWSzx2M5BM){:target="_blank"} |
+| | [![Smash Supreme](http://img.youtube.com/vi/wmNJFQ48f0U/0.jpg)](http://www.youtube.com/watch?v=wmNJFQ48f0U){:target="_blank"} | | [![Notorious 99](http://img.youtube.com/vi/ojWSzx2M5BM/0.jpg)](http://www.youtube.com/watch?v=ojWSzx2M5BM){:target="_blank"} | |
 
 ^^ (Click to watch)
 
@@ -58,7 +58,7 @@ In 2014 I founded Gumbug Games with two Mind Candy colleagues, backed by multipl
 
 ### 2011-2014: Mind Candy - Senior Engineer
 
-| [![Moshi Monsters](http://img.youtube.com/vi/fc04miEXbQo/0.jpg)](http://www.youtube.com/watch?v=fc04miEXbQo){:target="_blank"} | | [![World of Warriors](http://img.youtube.com/vi/tIPu-e6qSw4/0.jpg)](http://www.youtube.com/watch?v=tIPu-e6qSw4){:target="_blank"} |
+| | [![Moshi Monsters](http://img.youtube.com/vi/fc04miEXbQo/0.jpg)](http://www.youtube.com/watch?v=fc04miEXbQo){:target="_blank"} | | [![World of Warriors](http://img.youtube.com/vi/tIPu-e6qSw4/0.jpg)](http://www.youtube.com/watch?v=tIPu-e6qSw4){:target="_blank"} | |
 
 ^^ (Click to watch)
 
@@ -66,7 +66,7 @@ In 2011 I decided to move to London and **joined Mind Candy as a Senior Engineer
 
 ### 2008-2011: Freedom Factory - Engineer
 
-| [![Virtua Football](http://img.youtube.com/vi/vq_mzEoVlh8/0.jpg)](http://www.youtube.com/watch?v=vq_mzEoVlh8){:target="_blank"} |
+| | [![Virtua Football](http://img.youtube.com/vi/vq_mzEoVlh8/0.jpg)](http://www.youtube.com/watch?v=vq_mzEoVlh8){:target="_blank"} | |
 
 ^^ (Click to watch)
 
