@@ -32,7 +32,7 @@ My current position, I **Joined Fortis Games** during the seed stage as **Techni
 
 ### 2019: Voodoo Games - Tech Lead
 
-| [![Helix Jump](http://img.youtube.com/vi/jhhqLsF074k/0.jpg)](http://www.youtube.com/watch?v=jhhqLsF074k){:target="_blank"} | [![Aquapark.io](http://img.youtube.com/vi/GBeLmwW__BY/0.jpg)](http://www.youtube.com/watch?v=GBeLmwW__BY){:target="_blank"} | [![Crowd City](http://img.youtube.com/vi/FL7UQiGJvdQ/0.jpg)](http://www.youtube.com/watch?v=FL7UQiGJvdQ){:target="_blank"} | [![Hole.io](http://img.youtube.com/vi/lJDYb73h_qk/0.jpg)](http://www.youtube.com/watch?v=lJDYb73h_qk){:target="_blank"} | [![Crowd World](http://img.youtube.com/vi/xGBrSkeZxuw/0.jpg)](http://www.youtube.com/watch?v=xGBrSkeZxuw){:target="_blank"} |
+| [![Helix Jump](http://img.youtube.com/vi/jhhqLsF074k/0.jpg)](http://www.youtube.com/watch?v=jhhqLsF074k){:target="_blank"} | | [![Aquapark.io](http://img.youtube.com/vi/GBeLmwW__BY/0.jpg)](http://www.youtube.com/watch?v=GBeLmwW__BY){:target="_blank"} | | [![Crowd City](http://img.youtube.com/vi/FL7UQiGJvdQ/0.jpg)](http://www.youtube.com/watch?v=FL7UQiGJvdQ){:target="_blank"} | | [![Hole.io](http://img.youtube.com/vi/lJDYb73h_qk/0.jpg)](http://www.youtube.com/watch?v=lJDYb73h_qk){:target="_blank"} | | [![Crowd World](http://img.youtube.com/vi/xGBrSkeZxuw/0.jpg)](http://www.youtube.com/watch?v=xGBrSkeZxuw){:target="_blank"} |
 
 ^^ (Click to watch)
 
@@ -40,7 +40,7 @@ In 2019 **Gumbug was acquired by Voodoo Games** and most of the original team jo
 
 ### 2014: Gumbug Games - Founder/CTO
 
-| [![Dustland](http://img.youtube.com/vi/up7XVYRfiW0/0.jpg)](http://www.youtube.com/watch?v=up7XVYRfiW0){:target="_blank"} | [![Smash Supreme](http://img.youtube.com/vi/wmNJFQ48f0U/0.jpg)](http://www.youtube.com/watch?v=wmNJFQ48f0U){:target="_blank"} | [![Notorious 99](http://img.youtube.com/vi/ojWSzx2M5BM/0.jpg)](http://www.youtube.com/watch?v=ojWSzx2M5BM){:target="_blank"} |
+| [![Dustland](http://img.youtube.com/vi/up7XVYRfiW0/0.jpg)](http://www.youtube.com/watch?v=up7XVYRfiW0){:target="_blank"} | | [![Smash Supreme](http://img.youtube.com/vi/wmNJFQ48f0U/0.jpg)](http://www.youtube.com/watch?v=wmNJFQ48f0U){:target="_blank"} | | [![Notorious 99](http://img.youtube.com/vi/ojWSzx2M5BM/0.jpg)](http://www.youtube.com/watch?v=ojWSzx2M5BM){:target="_blank"} |
 
 ^^ (Click to watch)
 
@@ -56,7 +56,7 @@ In 2011 I decided to move to London and **joined Mind Candy as a Senior Engineer
 
 ### 2009: Freedom Factory - Engineer
 
-| [![Virtua Football](http://img.youtube.com/vi/vq_mzEoVlh8/0.jpg)](http://www.youtube.com/watch?v=vq_mzEoVlh8){:target="_blank"} | [![Naraba World](http://img.youtube.com/vi/bF5DJOQkFPE/0.jpg)](http://www.youtube.com/watch?v=bF5DJOQkFPE){:target="_blank"} | [![Baobab Planet](http://img.youtube.com/vi/wIX0pHa6BKQ/0.jpg)](http://www.youtube.com/watch?v=wIX0pHa6BKQ){:target="_blank"} | [![Cycling Evolution](http://img.youtube.com/vi/IsHRIYzHxFo/0.jpg)](http://www.youtube.com/watch?v=IsHRIYzHxFo){:target="_blank"} |
+| [![Virtua Football](http://img.youtube.com/vi/vq_mzEoVlh8/0.jpg)](http://www.youtube.com/watch?v=vq_mzEoVlh8){:target="_blank"} | | [![Naraba World](http://img.youtube.com/vi/bF5DJOQkFPE/0.jpg)](http://www.youtube.com/watch?v=bF5DJOQkFPE){:target="_blank"} | | [![Baobab Planet](http://img.youtube.com/vi/wIX0pHa6BKQ/0.jpg)](http://www.youtube.com/watch?v=wIX0pHa6BKQ){:target="_blank"} | | [![Cycling Evolution](http://img.youtube.com/vi/IsHRIYzHxFo/0.jpg)](http://www.youtube.com/watch?v=IsHRIYzHxFo){:target="_blank"} |
 
 ^^ (Click to watch)
 
