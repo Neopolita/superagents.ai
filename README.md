@@ -3,6 +3,10 @@ title: superagents.ai
 layout: page
 ---
 
+<a href="https://github.com/neopolita" target="_blank">
+  <i class="fa-brands fa-github"></i>
+</a>
+
 ## Machine Learning
 
 - [🧑🏻‍🎓 Certifications](https://www.linkedin.com/in/ignacio-garmendia-a2076a3/details/certifications/){:target="_blank"}
