@@ -1,14 +1,5 @@
 ---
-title: Machine Learning
+title: Model Merging
 ---
 
-```mermaid
-sequenceDiagram
-从者->>宝具:构造一个新的宝具对象
-宝具-->>从者:产生属性增益
-从者->>宝具:加入装备栏
-从者->>宝具:使用主动技能，触发被动技能
-从者->>宝具:脱下宝具
-宝具-->>从者:去除属性增益
-从者->>宝具:delete对应指针
-```
+TODO
