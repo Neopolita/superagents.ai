@@ -17,13 +17,21 @@ title: superagents.ai
 <!-- .slide -->
 
 ![Games](https://github.com/Neopolita/superagents.ai/blob/main/images/games.png?raw=true)
-### In a nuthsell
+### In a nuthsell, round 1
 
 ##### 1987: First computer, Amstrad CPC 464, first games in BASIC
 ##### 2001: **Founded Otrostudio**, developed **Webs and RIAs** for lots of clients
 ##### 2006: **Founded e-LiteGames** and created a portal with **+10 real-time multiplayer games**
 ##### 2008: **Joined Pyro Studios** as an **Engineer**, biggest studio in Spain! First job in the games industry
 ##### 2009: **Joined Freedom Factory Studios** as an **Engineer**, developed games for **Web, PC and consoles**
+
+#### Round 2 >
+
+<!-- .slide -->
+
+![Games](https://github.com/Neopolita/superagents.ai/blob/main/images/games.png?raw=true)
+### In a nuthsell, round 2
+
 ##### 2011: Moved to London! **Joined Mind Candy** and worked as a **Senior Engineer** on the **Moshi Monsters** hit
 ##### 2014: Still at London, **founded Gumbug Games as CTO**, released **3 Great Games**
 ##### 2019: **Sold Gumbug to Voodoo Games**, joined Voodoo and worked as a **Tech Lead** on some of their biggest hits
