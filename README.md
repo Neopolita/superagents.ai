@@ -38,7 +38,7 @@ title: superagents.ai
 
 #### 2019: Voodoo Games - Tech Lead
 
-| [![Helix Jump](http://img.youtube.com/vi/jhhqLsF074k/0.jpg)](http://www.youtube.com/watch?v=jhhqLsF074k){:target="_blank"} | [![Aquapark.io](http://img.youtube.com/vi/GBeLmwW__BY/0.jpg)](http://www.youtube.com/watch?v=GBeLmwW__BY){:target="_blank"} | [![Crowd City](http://img.youtube.com/vi/FL7UQiGJvdQ/0.jpg)](http://www.youtube.com/watch?v=FL7UQiGJvdQ){:target="_blank"} | [![Hole.io](http://img.youtube.com/vi/lJDYb73h_qk/0.jpg)](http://www.youtube.com/watch?v=lJDYb73h_qk){:target="_blank"} | [![Crowd World](http://img.youtube.com/vi/xGBrSkeZxuw/0.jpg)](http://www.youtube.com/watch?v=xGBrSkeZxuw){:target="_blank"} |
+[![Helix Jump](http://img.youtube.com/vi/jhhqLsF074k/0.jpg)](http://www.youtube.com/watch?v=jhhqLsF074k){:target="_blank"} [![Aquapark.io](http://img.youtube.com/vi/GBeLmwW__BY/0.jpg)](http://www.youtube.com/watch?v=GBeLmwW__BY){:target="_blank"} [![Crowd City](http://img.youtube.com/vi/FL7UQiGJvdQ/0.jpg)](http://www.youtube.com/watch?v=FL7UQiGJvdQ){:target="_blank"} [![Hole.io](http://img.youtube.com/vi/lJDYb73h_qk/0.jpg)](http://www.youtube.com/watch?v=lJDYb73h_qk){:target="_blank"} [![Crowd World](http://img.youtube.com/vi/xGBrSkeZxuw/0.jpg)](http://www.youtube.com/watch?v=xGBrSkeZxuw){:target="_blank"} |
 
 ###### ^^ (Click to watch video)
 ##### In 2019 **Gumbug was acquired by Voodoo Games** and most of the original team joined Voodoo as **Voodoo London**. As a Technical Leader at Voodoo London **I managed the London tech team and worked on both F/E and Live-Ops for some of the company "Unicorn" games, like Helix Jump, Aquapark.io, Crowd City and Hole.io**. I also worked on **both F/E and B/E for the real-time multiplayer ECS-based game Crowd World**.
