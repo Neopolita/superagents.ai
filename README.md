@@ -1,5 +1,6 @@
 ---
 title: superagents.ai
+layout: page
 ---
 
 ## Machine Learning
