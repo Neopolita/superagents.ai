@@ -3,15 +3,21 @@ title: superagents.ai
 layout: page
 ---
 
+<a href="https://www.linkedin.com/in/ignacio-garmendia-a2076a3" target="_blank">
+  <i class="fa-brands fa-linkedin"></i>
+</a>
 <a href="https://github.com/neopolita" target="_blank">
   <i class="fa-brands fa-github"></i>
+</a>
+<a href="https://twitter.com/codepolita" target="_blank">
+  <i class="fa-brands fa-twitter"></i>
 </a>
 
 ## Machine Learning
 
 - [🧑🏻‍🎓 Certifications](https://www.linkedin.com/in/ignacio-garmendia-a2076a3/details/certifications/){:target="_blank"}
-- [👩🏻‍⚖️ Loki: Legal Writting Assistant](https://www.superagents.ai/2024/05/04/loki/)
-- [🧪 Model Merging](https://www.superagents.ai/2024/05/04/model_merging/)
+- [👩🏻‍⚖️ Loki: Legal Writting Assistant](https://www.superagents.ai/2024/05/04/loki/){:target="_blank"}
+- [🧪 Model Merging](https://www.superagents.ai/2024/05/04/model_merging/){:target="_blank"}
 - [🤗 Model Quantizations](https://huggingface.co/collections/neopolita/quants-65edf306a24bc01911107199){:target="_blank"}
 - [🔥 LearnMojo Substack](https://learnmojo.substack.com/){:target="_blank"}
 
