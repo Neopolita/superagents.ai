@@ -34,21 +34,21 @@ title: superagents.ai
 
 ### 2001-2008: Otrostudio and freelancing
 
-While studying computer engineering I founded **Otrostudio** with two friends, during the next four years we were developing **web sites and rich internet applications** for a diverse range of clients, including **Trece13, Universidad de Sevilla, Banda de la María, Alex O'Doherty** and many others.
+##### While studying computer engineering I founded **Otrostudio** with two friends, during the next four years we were developing **web sites and rich internet applications** for a diverse range of clients, including **Trece13, Universidad de Sevilla, Banda de la María, Alex O'Doherty** and many others.
 
-Around 2005 I started freelancing for multiple international companies and agencies. I had the opportunity to collaborate with big brands and companies, such **EA, DKNY, Max Factor, Hello Kitty, Airbus, Opel, AOL, Scion, Adobe, Rogers & Cowan, El Corte Inglés, The1stMovement, and Prusland**, among others. My work involved the development of web experiences, rich internet applications and augmented reality experiences. Additionally, I am proud to have contributed to the creation of the **[FWA award-winning](https://thefwa.com/cases/adobe-acrobat-8-experience)** experience for **Adobe Acrobat 8**.
+##### Around 2005 I started freelancing for multiple international companies and agencies. I had the opportunity to collaborate with big brands and companies, such **EA, DKNY, Max Factor, Hello Kitty, Airbus, Opel, AOL, Scion, Adobe, Rogers & Cowan, El Corte Inglés, The1stMovement, and Prusland**, among others. My work involved the development of web experiences, rich internet applications and augmented reality experiences. Additionally, I am proud to have contributed to the creation of the **[FWA award-winning](https://thefwa.com/cases/adobe-acrobat-8-experience)** experience for **Adobe Acrobat 8**.
 
 <!-- .slide vertical=true -->
 
 ### 2006: e-LiteGames
 
-Since I was a kid and started coding very "BASIC" games on my Amstrad CPC 464, I always wanted to develop computer games. On 2006 I decided to pursue my dream and started working on a Risk-like multiplayer Flash game, the only server solution for Flash multiplayer games in the time was the official Macromedia server, which I couldn't afford, so **I reverse engineered the AMF3 protocol and implemented with c# my own server solution for multiplayer games, this project became Beam Server**, a project I later licensed to multiple companies. During 2006 and 2007 **I developed and released a dozen of real-time multiplayer games against Beam Server on my web portal, e-LiteGames**. I was running e-LiteGames until I got hired by Pyro Studios.
+##### Since I was a kid and started coding very "BASIC" games on my Amstrad CPC 464, I always wanted to develop computer games. On 2006 I decided to pursue my dream and started working on a Risk-like multiplayer Flash game, the only server solution for Flash multiplayer games in the time was the official Macromedia server, which I couldn't afford, so **I reverse engineered the AMF3 protocol and implemented with c# my own server solution for multiplayer games, this project became Beam Server**, a project I later licensed to multiple companies. During 2006 and 2007 **I developed and released a dozen of real-time multiplayer games against Beam Server on my web portal, e-LiteGames**. I was running e-LiteGames until I got hired by Pyro Studios.
 
 <!-- .slide vertical=true -->
 
 ### 2008: Pyro Studios
 
-Pyro Studios, developers of the Commando saga, was at the time the biggest studio in Spain, so when I got an offer to join them, I didn't hesitate, packed my bag and moved to Madrid on a January 1st. At Pyro Studios **I worked as an engineer on an ambitious real-time multiplayer game**, unfortunately the project was not released but it was a great chance to test my server solution, Beam Server, on the context of a big studio.
+##### Pyro Studios, developers of the Commando saga, was at the time the biggest studio in Spain, so when I got an offer to join them, I didn't hesitate, packed my bag and moved to Madrid on a January 1st. At Pyro Studios **I worked as an engineer on an ambitious real-time multiplayer game**, unfortunately the project was not released but it was a great chance to test my server solution, Beam Server, on the context of a big studio.
 
 <!-- .slide vertical=true -->
 
@@ -56,7 +56,7 @@ Pyro Studios, developers of the Commando saga, was at the time the biggest studi
 
 | [![Virtua Football](http://img.youtube.com/vi/vq_mzEoVlh8/0.jpg)](http://www.youtube.com/watch?v=vq_mzEoVlh8) | [![Naraba World](http://img.youtube.com/vi/bF5DJOQkFPE/0.jpg)](http://www.youtube.com/watch?v=bF5DJOQkFPE) | [![Baobab Planet](http://img.youtube.com/vi/wIX0pHa6BKQ/0.jpg)](http://www.youtube.com/watch?v=wIX0pHa6BKQ) | [![Cycling Evolution](http://img.youtube.com/vi/IsHRIYzHxFo/0.jpg)](http://www.youtube.com/watch?v=IsHRIYzHxFo) |
 
-While working at Pyro Studios I got an offer from **Freedom Factory Studios and joined as an engineer**. During the next years I worked on **Virtua Football, a multiplayer soccer manager, Baobab Planer, a MMO for kids, Naraba World, a RPG for PC and consoles and Cycling Evolution, a cycling manager**, among other projects.
+##### While working at Pyro Studios I got an offer from **Freedom Factory Studios and joined as an engineer**. During the next years I worked on **Virtua Football, a multiplayer soccer manager, Baobab Planer, a MMO for kids, Naraba World, a RPG for PC and consoles and Cycling Evolution, a cycling manager**, among other projects.
 
 <!-- .slide vertical=true -->
 
