@@ -28,8 +28,36 @@ title: superagents.ai
 ##### 2019: **Sold Gumbug to Voodoo Games**, joined Voodoo and worked as **Tech Lead** on some of their biggest hits
 ##### 2021: **Joined Fortis Games** during the seed stage as **Technical Director** of their first team
 
-### Low-level details >
+#### Low-level details >
+
+<!-- .slide -->
+
+### 2001: Otrostudio
 
 <!-- .slide vertical=true -->
 
-More
+### 2006: e-LiteGames
+
+<!-- .slide vertical=true -->
+
+### 2008: Pyro Studios
+
+<!-- .slide vertical=true -->
+
+### 2009: Freedom Factory Studios
+
+<!-- .slide vertical=true -->
+
+### 2011: Mind Candy
+
+<!-- .slide vertical=true -->
+
+### 2014: Gumbug Games
+
+<!-- .slide vertical=true -->
+
+### 2019: Voodoo Games
+
+<!-- .slide vertical=true -->
+
+### 2021: Fortis Games
