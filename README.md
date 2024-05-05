@@ -11,7 +11,7 @@ layout: page
 - [🤗 Model Quantizations](https://huggingface.co/collections/neopolita/quants-65edf306a24bc01911107199){:target="_blank"}
 - [🔥 LearnMojo Substack](https://learnmojo.substack.com/){:target="_blank"}
 
-## Game Development 
+## Career 
 
 ![Games](https://github.com/Neopolita/superagents.ai/blob/main/images/games.png?raw=true)
 ### In a nuthsell
