@@ -56,7 +56,7 @@ In 2011 I decided to move to London and **joined Mind Candy as a Senior Engineer
 
 ### 2008-2011: Freedom Factory - Engineer
 
-| [![Virtua Football](http://img.youtube.com/vi/vq_mzEoVlh8/0.jpg)](http://www.youtube.com/watch?v=vq_mzEoVlh8){:target="_blank"} | | [![Naraba World](http://img.youtube.com/vi/bF5DJOQkFPE/0.jpg)](http://www.youtube.com/watch?v=bF5DJOQkFPE){:target="_blank"} | | [![Baobab Planet](http://img.youtube.com/vi/wIX0pHa6BKQ/0.jpg)](http://www.youtube.com/watch?v=wIX0pHa6BKQ){:target="_blank"} | | [![Cycling Evolution](http://img.youtube.com/vi/IsHRIYzHxFo/0.jpg)](http://www.youtube.com/watch?v=IsHRIYzHxFo){:target="_blank"} |
+| [![Virtua Football](http://img.youtube.com/vi/vq_mzEoVlh8/0.jpg)](http://www.youtube.com/watch?v=vq_mzEoVlh8){:target="_blank"} | | [![Naraba World](http://img.youtube.com/vi/bF5DJOQkFPE/0.jpg)](http://www.youtube.com/watch?v=bF5DJOQkFPE){:target="_blank"} | | [![Baobab Planet](http://img.youtube.com/vi/wIX0pHa6BKQ/0.jpg)](http://www.youtube.com/watch?v=wIX0pHa6BKQ){:target="_blank"} | | [![Cycling Evolution](http://img.youtube.com/vi/IsHRIYzHxFo/0.jpg)](http://www.youtube.com/watch?v=IsHRIYzHxFo){:target="_blank"} |
 
 ^^ (Click to watch)
 
