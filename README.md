@@ -70,9 +70,9 @@ While working at Pyro Studios I got an offer from **Freedom Factory Studios and 
 
 Pyro Studios, developers of the Commando saga, was at the time the biggest studio in Spain, so when I got an offer to join them, I didn't hesitate, packed my bag and moved to Madrid on a January 1st. At Pyro Studios **I worked as an Engineer on Quiz Adventure, an ambitious real-time multiplayer game**, unfortunately the project was not released but **it was a great chance to test my server solution, Beam Server, on the context of a big studio**.
 
-![e-LiteGames](https://github.com/Neopolita/superagents.ai/blob/main/images/elitegames.png?raw=true)
-
 ### 2006: e-LiteGames - Indie game developer
+
+![e-LiteGames](https://github.com/Neopolita/superagents.ai/blob/main/images/elitegames.png?raw=true)
 
 Since I was a kid and started coding very "BASIC" games on my Amstrad CPC 464, I always wanted to develop computer games. On 2006 I decided to pursue my dream and started working, with a friend, on a Risk-like multiplayer Flash game, the only server solution for Flash multiplayer games in the time was the official Macromedia server, which we couldn't afford, so **we reverse engineered the AMF3 protocol and implemented our own c# server solution for multiplayer games, this project became Beam Server**, a project we later licensed to multiple companies. During 2006 and 2007 **we developed and released a dozen of real-time multiplayer games against Beam Server on our web portal, e-LiteGames**. I was running e-LiteGames until I got hired at Pyro Studios.
 
