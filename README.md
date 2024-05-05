@@ -48,7 +48,7 @@ In 2014 I founded Gumbug Games with two Mind Candy colleagues, backed by multipl
 
 ### 2011: Mind Candy - Senior Engineer
 
-| [![Moshi Monsters](http://img.youtube.com/vi/RADumi98ZgA/0.jpg)](http://www.youtube.com/watch?v=RADumi98ZgA){:target="_blank"} | [![Moshling Rescue](http://img.youtube.com/vi/7r-Q0L8x-k0/0.jpg)](http://www.youtube.com/watch?v=7r-Q0L8x-k0){:target="_blank"} | [![World of Warriors](http://img.youtube.com/vi/tIPu-e6qSw4/0.jpg)](http://www.youtube.com/watch?v=tIPu-e6qSw4){:target="_blank"} |
+| [![Moshi Monsters](http://img.youtube.com/vi/RADumi98ZgA/0.jpg)](http://www.youtube.com/watch?v=RADumi98ZgA){:target="_blank"} | | [![Moshling Rescue](http://img.youtube.com/vi/7r-Q0L8x-k0/0.jpg)](http://www.youtube.com/watch?v=7r-Q0L8x-k0){:target="_blank"} | | [![World of Warriors](http://img.youtube.com/vi/tIPu-e6qSw4/0.jpg)](http://www.youtube.com/watch?v=tIPu-e6qSw4){:target="_blank"} |
 
 ^^ (Click to watch)
 
