@@ -12,7 +12,7 @@ title: superagents.ai
 
 <br>
 
-## Curriculum Vitae (scroll or right key)
+#### Curriculum Vitae (scroll or right key)
 
 <!-- .slide -->
 
