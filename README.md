@@ -34,7 +34,9 @@ title: superagents.ai
 
 #### 2021: Fortis Games - Technical Director
 
-##### My current position, I **Joined Fortis Games** during the seed stage as **Technical Director** of their first team, where I'm working on an undisclosed project.
+```vega-lite
+My current position, I **Joined Fortis Games** during the seed stage as **Technical Director** of their first team, where I'm working on an undisclosed project.
+```
 
 #### 2019: Voodoo Games - Tech Lead
 
